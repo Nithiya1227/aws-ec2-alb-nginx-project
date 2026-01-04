@@ -12,7 +12,7 @@ This project demonstrates how to deploy a highly available static website on AWS
 - SSH (Remote Access)
 
 ## 🏗️ Architecture
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](screenshots/architecture.png)
 
 ## 🔄 Workflow
 1. User accesses the website via browser.
