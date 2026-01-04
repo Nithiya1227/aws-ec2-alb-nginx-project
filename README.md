@@ -27,6 +27,11 @@ This project demonstrates how to deploy a highly available static website on AWS
 ## ❤️ Target Group Health Check
 ![Target Group](screenshots/target-group.png)
 
+## 🌐 Project Links
+🔗 Live URL (ALB DNS / Public Access):
+Web server1 - http://3.111.31.203/
+Web server2 - http://13.233.34.173/
+
 ## ⚠️ Note on Free Tier
 Since this project was implemented using AWS Free Tier, the EC2 instances were stopped after successful testing to avoid unnecessary costs.  
 Screenshots are shared for verification purposes.
